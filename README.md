@@ -1,3 +1,5 @@
+<img alt = "IMAGE" src = "https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+
 ### WELCOME TO MY GITHUB! 😼🐈
 
 <!--
