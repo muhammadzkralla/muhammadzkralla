@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark" /></p>
+<img align="center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark" />
 
  
