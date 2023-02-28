@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark" />
+<img align="right" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark" />
 
  
