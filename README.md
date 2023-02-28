@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 
 - I am a 4-year Java developer interested in Android and currently learning Kotlin.
 - I have used other languages previously like: JS,Python,PHP and C.
-- 📫 How to reach me: muhammad.hesham442@gmail.com
+- 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark)](https://git.io/streak-stats)
+
+ 
