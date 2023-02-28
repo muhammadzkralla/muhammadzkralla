@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - I have used other languages previously like: JS,Python,PHP and C.
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
+<div class="row">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true"/>
 
 <img align="right" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=dark" />
 
+ </div>
  
