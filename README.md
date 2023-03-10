@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div class="row">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=vision-friendly-dark&include_all_commits=true" style = "width:48%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=cobalt&include_all_commits=true" style = "width:48%"/>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=vision-friendly-dark" style = "width:48%"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=radical" style = "width:48%"/>
 
  </div>
  
