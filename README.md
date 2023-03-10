@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - I have used other languages previously like: JS,Python,PHP and C.
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
-<div class="row">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=cobalt&include_all_commits=true"/>
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=cobalt&include_all_commits=true"/>
+ 
+ <br>
 
-<img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=radical"/>
+<img align = "left" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=radical"/>
 
- </div>
+ 
  
