@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=synthwave&include_all_commits=true"/>
  
- <br>
+ <br><br>
 
 <img align = "left" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=radical"/>
 
