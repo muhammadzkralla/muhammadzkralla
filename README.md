@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=merko&include_all_commits=true"/>
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=radical&include_all_commits=true"/>
  
  <br><br>
 
