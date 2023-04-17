@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  <br><br>
 
-<img align = "left" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=moltack"/>
+<img align = "left" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark"/>
 
  
  
