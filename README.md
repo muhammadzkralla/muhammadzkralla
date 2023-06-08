@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - I have used other languages previously like: JS, Python, PHP and C.
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
-
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&count_private=true&theme=chartreuse-dark&include_all_commits=true"/>
  
  <br><br>
 
