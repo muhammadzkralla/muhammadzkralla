@@ -18,7 +18,9 @@ Here are some ideas to get you started:
  
  <br><br>
 
-<img align = "left" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark"/>
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamed02Emad" height="480px"/>
+<img align = "right" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark"/> 
+
 
  
  
