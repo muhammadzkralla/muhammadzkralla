@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 
 -->
 
-- I am a 4-year Java developer interested in Android and currently learning Kotlin.
+- I am a 4-year Java developer interested in Android Development using Kotlin/Java.
 - I have used other languages previously like: JS, Python, PHP and C/C++.
 - 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
 
  
  <br><br>
 
-<img align = "center" src="https://streak-stats.demolab.com?user=muhammadzkralla&theme=chartreuse-dark"/> 
+<img align = "center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark"/> 
 <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="muhammadzkralla" height="510px"/>
