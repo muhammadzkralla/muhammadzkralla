@@ -1,4 +1,3 @@
-<img src = "https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" >
 <br>
 <img align = "right" width = "300" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 <h1 align="center">WELCOME TO MY GITHUB! 😼🐈</h1>
