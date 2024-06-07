@@ -1,3 +1,21 @@
+<br>
+<img align = "right" width = "300" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
+<h1 align="center">WELCOME TO MY GITHUB! 😼🐈</h1>
+<br>
+
+<!--
+**muhammadzkralla/muhammadzkralla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
+
+- 👋 Hi, I'm Muhammad, a Java developer with 5 years of experience.
+- 🌱 I specialize in Backend and Android Development using Kotlin/Java.
+- 🛠 I also have experience with JavaScript, Python, and C/C++.
+- 📫 How to reach me: muhammad.hesham442@gmail.com
+
+
+ <br><br>
+
 <table>
   <tr>
     <td>
