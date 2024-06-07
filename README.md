@@ -18,22 +18,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td width="50%">
-      <table>
-        <tr>
-          <td>
-            <img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark" alt="GitHub Streak" width="100%" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=tokyonight" alt="Profile Details" width="100%" />
-          </td>
-        </tr>
-      </table>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark" alt="GitHub Streak" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" width="100%" />
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
