@@ -1,6 +1,6 @@
 <br>
-<img align = "right" width = "300" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 <h1 align="center">WELCOME TO MY GITHUB! 😼🐈</h1>
+<img align = "right" width = "300" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 <br>
 
 <!--
@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 🛠 I also have experience with JavaScript, Python, and C/C++.
 - 📫 How to reach me: muhammad.hesham442@gmail.com
 
-
- <br><br>
+<br><br>
 
 <table>
   <tr>
