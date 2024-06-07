@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 👋 Hi, I'm Muhammad, a software engineer with 5 years of experience.
-- 🌱 I specialize in Backend and Android Development using Kotlin/Java.
+- 🥷 Hi, I'm Muhammad, a software engineer with 5 years of experience.
+- 👽 I specialize in Backend and Android Development using Kotlin/Java.
 - 🛠 I also have experience with JavaScript, Python, and C/C++.
 - 📫 How to reach me: muhammad.hesham442@gmail.com
 
