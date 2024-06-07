@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🛠 I also have experience with JavaScript, Python, and C/C++.
 - 📫 How to reach me: muhammad.hesham442@gmail.com
 
-<br><hr>
+<br><br><br><hr><br><br>
 
 <table>
   <tr>
