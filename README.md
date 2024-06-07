@@ -10,12 +10,38 @@ Here are some ideas to get you started:
 
 -->
 
-- I am a 5-year Java developer interested in Backend and Android Development using Kotlin/Java.
-- I have used other languages previously like: JS, Python, PHP and C/C++.
-- 📫 How to reach me: muhammad.hesham442@gmail.com <br> <br> <br> <hr>
+- 👋 Hi, I'm Muhammad, a Java developer with 5 years of experience.
+- 🌱 I specialize in Backend and Android Development using Kotlin/Java.
+- 🛠 I also have experience with JavaScript, Python, and C/C++.
+- 📫 How to reach me: muhammad.hesham442@gmail.com
 
  
  <br><br>
 
-<img align = "center" src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark"/> 
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="muhammadzkralla" height="510px"/>
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <div style="width: 350px; height: 180px;">
+              <img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%; height: 100%;" />
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div style="width: 350px; height: 180px;">
+              <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=tokyonight" alt="Profile Details" style="width: 100%; height: 100%;" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <div style="width: 350px; height: 360px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&langs_count=15&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" style="width: 100%; height: 100%;" />
+      </div>
+    </td>
+  </tr>
+</table>
