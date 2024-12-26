@@ -4,6 +4,8 @@
   <img src="https://user-badge.committers.top/egypt/muhammadzkralla.svg" alt="Top Committer in Egypt" />
 </p>
 
+<img align="right" width="300" src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF">
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <!-- Bullet Points -->
   <div style="flex: 1;">
@@ -17,11 +19,6 @@
       </li>
       <li>📫 How to reach me: muhammad.hesham442@gmail.com</li>
     </ul>
-  </div>
-
-  <!-- GIF Section -->
-  <div style="flex: 0 0 300px;">
-    <img width="100%" src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF">
   </div>
 </div>
 
@@ -38,7 +35,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=2077" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=rad" alt="Profile Details" style="width: 100%; max-width: 800px;" />
     </td>
   </tr>
 </table>
