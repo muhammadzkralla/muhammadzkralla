@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=rad" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=2077" alt="Profile Details" style="width: 100%; max-width: 800px;" />
     </td>
   </tr>
 </table>
