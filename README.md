@@ -30,7 +30,7 @@
       <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" style="display: block; margin: 0 auto;">
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&layout=compact&langs_count=20&show_icons=true&locale=en&theme=radical" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&layout=compact&langs_count=20&show_icons=true&locale=en&theme=gruvbox" alt="Top Languages" style="width: 100%; max-width: 400px;" />
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=2077" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=gruvbox" alt="Profile Details" style="width: 100%; max-width: 800px;" />
     </td>
   </tr>
 </table>
