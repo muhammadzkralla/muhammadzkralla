@@ -12,10 +12,8 @@
       <li>🥷 Hi, I'm Muhammad, a software engineer in the field since 2019.</li>
       <li>👽 I specialize in Backend and Android Development using Kotlin/Java.</li>
       <li>🛠 I also have experience with JavaScript, Python, and C/C++.</li>
-      <li>📚 I constantly study software engineering fundamentals like:
-        <strong>DSA</strong>, <strong>OOP</strong>, <strong>Database Design</strong>, 
-        <strong>Design Patterns</strong>, <strong>Networking</strong>, and <strong>OS</strong>.
-      </li>
+      <li>🔄 Recreating software and reinventing the wheel is my passion. </li>
+      <li>🐧 Open source enthusiast—Neovim, Linux, and customizations are my thing. </li>
       <li>📫 How to reach me: <a href="mailto:muhammad.hesham442@gmail.com">muhammad.hesham442@gmail.com</a></li>
     </ul>
   </div>
