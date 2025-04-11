@@ -16,7 +16,7 @@
 - 👨‍💻 **Software Engineer since 2019**, passionate about understanding systems by **rebuilding them from scratch**.
 - 🔁 I love **reinventing the wheel**, not for novelty, but for mastery. From writing my own **JVM HTTP client**, **TCP socket HTTP server**, and **backend framework**, configuring **my own Neovim setup from scratch**, to building a **heap memory manager (HMM)**, a **Unix shell**, **implementing custom coroutines logic**, and even **building a garbage collector**.
 - 🧵 Obsessively curious about how things work under the hood: memory, networking and protocols, database engines, coroutines, I/O, and async architectures.
-- 🐧 I live in the terminal. My daily environment is a finely tuned Linux setup powered by **Zsh**, **Tmux**, **Neovim**, **Lazygit**, **Yazi**, and a fleet of CLI tools—crafted for speed, productivity, and minimalism.
+- 🐧 I live in the terminal. My daily environment is a finely tuned Linux setup powered by 🌀 **Zsh**, 🔲 **Tmux**, ✨ **Neovim**, 📊 **Lazygit**, 📁 **Yazi**, and a fleet of CLI tools—crafted for speed, productivity, and minimalism.
 - 📚 I read technical books like *Designing Data-Intensive Applications*, and I write **technical deep-dives** on Medium to share what I learn.
 - ⚙️ I care about **code quality**, **performance**, and **clarity**—writing code that’s as elegant as it is efficient.
 
@@ -29,7 +29,7 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but not 
 - **Java & Kotlin** – Networking, My JVM HTTP Client, Backend, Asynchronous (CPU-Intensive) Systems, My Coroutines, Android apps
 - **C & C++** – Low-Level System Programming, My Memory Managers (HMM), My Garbage Collector, CLI tools, Data Structures and Algorithms
 - **JavaScript (Node.js)** – APIs, Asynchronous (I/O) Systems, Integrations, Web Apps
-- **Go (Golang)** – Networking, My HTTP Server, My Database Engines/ORMs, Backend, Asynchronous (Concurrent) Systems, CLI-Tools, My Particle Systems and Game Engines
+- **Go (Golang)** – Networking, My HTTP Server, My Database Engines/ORMs, Backend, Asynchronous (Concurrent) Systems, CLI tools, My Particle Systems and Game Engines
 - **Python** – Backend, Scripting, Prototyping, Automation
 - **Lua** – My Neovim Configs and Tooling
 - **Bash** – Scripting, Automation, Linux Tooling
