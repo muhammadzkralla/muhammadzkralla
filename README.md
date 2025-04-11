@@ -11,6 +11,30 @@
 
 ---
 
+<!-- Stats Table with GIF -->
+<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" style="display: block; margin: 0 auto;">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&layout=compact&langs_count=20&show_icons=true&locale=en&theme=gruvbox" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%; max-width: 800px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=gruvbox" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🧠 About Me
 
 - 👨‍💻 **Software Engineer since 2019**, passionate about understanding systems by **rebuilding them from scratch**.
@@ -60,29 +84,3 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but not 
 ### 📬 Reach Me
 
 - 📫 Email: [muhammad.hesham442@gmail.com](mailto:muhammad.hesham442@gmail.com)
-
----
-
-<!-- Stats Table with GIF -->
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" style="display: block; margin: 0 auto;">
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzkralla&layout=compact&langs_count=20&show_icons=true&locale=en&theme=gruvbox" alt="Top Languages" style="width: 100%; max-width: 400px;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=muhammadzkralla&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%; max-width: 800px;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzkralla&theme=gruvbox" alt="Profile Details" style="width: 100%; max-width: 800px;" />
-    </td>
-  </tr>
-</table>
-
----
