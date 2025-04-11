@@ -5,6 +5,10 @@
   <img src="https://user-badge.committers.top/egypt/muhammadzkralla.svg" alt="Top Committer in Egypt" />
 </p>
 
+<div align="center" style="max-width: 100%; overflow: hidden;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Rebuilding+Complex+Systems+from+Scratch;Engineer+by+Practice,+Hacker+by+Curiosity;Writing,+Reading,+and+Reimagining+Software+Every+Day" alt="Typing SVG">
+</div>
+
 ---
 
 ### 🧠 About Me
@@ -82,7 +86,3 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but not 
 </table>
 
 ---
-
-<div align="center" style="max-width: 100%; overflow: hidden;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Rebuilding+Complex+Systems+from+Scratch;Engineer+by+Practice,+Hacker+by+Curiosity;Writing,+Reading,+and+Reimagining+Software+Every+Day" alt="Typing SVG">
-</div>
