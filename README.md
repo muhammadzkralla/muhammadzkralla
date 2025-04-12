@@ -37,12 +37,12 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 **Software Engineer since 2019**, passionate about understanding systems by **rebuilding them from scratch**.
-- 🔁 I love **reinventing the wheel**, not for novelty, but for mastery.
-- 🧵 Obsessively curious about how things work under the hood: memory, networking and protocols, database engines, coroutines, I/O, and async architectures.
-- 🐧 I live in the terminal. My daily environment is a finely tuned Linux setup powered by a fleet of CLI tools crafted for speed, productivity, and minimalism.
-- 📚 I read technical books, and I write **technical deep-dives** on Medium to share what I learn.
-- ⚙️ I care about **code quality**, **performance**, and **clarity**—writing code that’s as elegant as it is efficient.
+- **Software Engineer since 2019**, passionate about understanding systems by **rebuilding them from scratch**.
+- I love **reinventing the wheel**, not for novelty, but for mastery.
+- Obsessively curious about how things work under the hood: memory, networking and protocols, database engines, coroutines, I/O, async architectures, etc.
+- Terminal citizen. My daily environment is a finely tuned Linux setup powered by a fleet of CLI tools crafted for speed, productivity, and minimalism.
+- Technical books reader, and author of **technical deep-dives** on Medium to share what I learn.
+- Committed to **code quality**, **performance**, and **clarity**, writing code that’s as elegant as it is efficient.
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but is n
 
 ### 🧪 What I've Built (From Scratch) (Until Now)
 
-> Rebuilding the wheel—because I *need* to know how it spins. 🔩
+> Rebuilding the wheel because I *need* to know how it spins. 🔩
 
 - 🌀 **Custom JVM HTTP Client** — manually handling sockets, HTTP/1.1 parsing, and chunked encoding running on all JVM projects (Spring Boot, Android, Console, etc.)
 - 🧠 **HMM (Heap Memory Manager)** — malloc/free/calloc/realloc using a virtual heap mimicking the libc memory model
