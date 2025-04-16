@@ -50,12 +50,12 @@
 
 I enjoy writing code across paradigms and ecosystems. My stack includes but is not limited to:
 
-- **Java & Kotlin** – Networking, My JVM HTTP Client, Backend, Asynchronous (CPU-Intensive) Systems, My Coroutines, Android apps
-- **C & C++** – Low-Level System Programming, My Memory Managers (HMM), My Garbage Collector, CLI tools, Data Structures and Algorithms
-- **JavaScript (Node.js)** – APIs, Asynchronous (I/O) Systems, Integrations, Web Apps
-- **Go (Golang)** – Networking, My HTTP Server, My Database Engines/ORMs, Backend, Asynchronous (Concurrent) Systems, CLI tools, My Particle Systems and Game Engines
-- **Python** – Backend, Scripting, Prototyping, Automation
-- **Lua** – My Neovim Configs and Tooling
+- **Java & Kotlin** – Networking, JVM HTTP Client, Backend Services, RESTful APIs, Asynchronous (CPU-Intensive) Systems, Coroutines, Android apps
+- **C & C++** – Low-Level System Programming, My Memory Managers (HMM), My Linux Shell, My Garbage Collector, CLI tools, Data Structures and Algorithms
+- **JavaScript (Node.js)** – Backend Services, RESTful APIs, Asynchronous (I/O) Systems, Integrations, Web Apps
+- **Go (Golang)** – Networking, HTTP Server, Database Engines/ORMs, Backend Services, RESTful APIs, Asynchronous (Concurrent) Systems, CLI tools, Particle Systems and Game Engines
+- **Python** – Backend Services, RESTful APIs, Scripting, Prototyping, Automation
+- **Lua** – My Personal Neovim Configs and Tooling
 - **Bash** – Scripting, Automation, Linux Tooling
 
 ---
