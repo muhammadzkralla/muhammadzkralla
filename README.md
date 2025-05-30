@@ -14,6 +14,11 @@
 <!-- Stats Table with GIF -->
 <table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
   <tr>
+    <td colspan="2" style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=muhammadzkralla&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show=discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width: 100%; max-width: 800px;" />
+    </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <img src="https://github.com/user-attachments/assets/785be6f0-ff4b-4db2-b314-b3ab1f5a88aa" alt="Kakashi Neovim GIF" style="display: block; margin: 0 auto;">
     </td>
