@@ -48,7 +48,7 @@
 
 - **Software Engineer since 2019**, passionate about understanding systems by **rebuilding them from scratch**.
 - I love **reinventing the wheel**, not for novelty, but for mastery.
-- Obsessively curious about how things work under the hood: memory, networking and protocols, database engines, coroutines, I/O, async architectures, etc.
+- Obsessively curious about how things work under the hood: memory, networking and protocols, database engines, operating systems, coroutines, I/O, async and real-time architectures, etc.
 - Terminal citizen, I rarely leave it. My daily environment is a finely tuned Linux setup powered by a fleet of CLI tools crafted for speed, productivity, and minimalism. **NeoVim btw**.
 - Technical books reader, and author of **technical deep-dives** on Medium to share what I learn.
 - Committed to **code quality**, **performance**, and **clarity**, experienced enough to write code that’s as elegant as it is efficient.
@@ -59,13 +59,14 @@
 
 I enjoy writing code across paradigms and ecosystems. My stack includes but is not limited to:
 
-- **Java & Kotlin** – Networking, My JVM HTTP Client, Backend Services, RESTful APIs, Asynchronous (CPU-Intensive) Systems, Coroutines, Android apps.
-- **C & C++** – Low-Level System Programming, My Memory Managers (HMM), My Linux Shell, My Garbage Collector, CLI tools, Data Structures and Algorithms.
+- **Java & Kotlin** : Networking, My JVM HTTP Client `zhttp`, Backend Services, RESTful APIs, Asynchronous (CPU-Intensive) Systems, Coroutines, Android apps.
+- **C & C++** : Low-Level System Programming, My Heap Memory Manager `zhmm`, My Linux Shell `zshell`, My Garbage Collector, CLI tools, Data Structures and Algorithms.
+- **Go (Golang)** : Low-Level System Programming, Networking, My HTTP Server `zttp`, Database Engines/ORMs, Backend Services, RESTful APIs, Asynchronous (Concurrent) Systems, CLI Tools, Particle Systems and Game Engines.
+- **Rust** : Low-Level System Programming, My Java Virtual Machine `zvm`, Networking, Backend Services, Asynchronous (Concurrent) Systems, CLI Tools, Particle Systems.
 - **JavaScript (Node.js)** – Backend Services, RESTful APIs, Asynchronous (I/O) Systems, Integrations, Web Apps.
-- **Go (Golang)** – Low-Level System Programming, Networking, My HTTP Server, Database Engines/ORMs, Backend Services, RESTful APIs, Asynchronous (Concurrent) Systems, CLI tools, Particle Systems and Game Engines.
-- **Python** – Backend Services, RESTful APIs, Scripting, Prototyping, Automation.
-- **Lua** – My Personal Neovim Configs and Tooling.
-- **Bash** – Scripting, Automation, Linux Tooling.
+- **Python** : Backend Services, RESTful APIs, Scripting, Prototyping, Automation.
+- **Lua** : My Personal Neovim Configs `zvim` and Tooling.
+- **Bash** : Scripting, Automation, Linux Tooling.
 
 ---
 
@@ -73,12 +74,13 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but is n
 
 > Rebuilding the wheel because I *need* to know how it spins.
 
--  [**Custom JVM HTTP Client**](https://github.com/muhammadzkralla/ZHttp) — manually handling generic requests, HTTP/1.1 parsing, and concurrency modeling running on all JVM projects (Spring Boot, Android, Console, etc.).
--  [**HMM (Heap Memory Manager)**](https://github.com/muhammadzkralla/STM/tree/main/ZHeap_Phase2) — malloc/free/calloc/realloc using a virtual heap mimicking the libc memory model.
--  [**TCP Socket HTTP Server**](https://github.com/muhammadzkralla/zttp) — routing, middleware, HTTP/1.1 parsing, and connection management from raw TCP sockets, no external frameworks.
--  [**Custom Unix Shell**](https://github.com/muhammadzkralla/super_simple_shell) — with piping, in/out/err redirections, custom commands, and built-ins.
--  **Custom Coroutines Model** — building my own coroutines concurrency api model to suspend a function and resume it later in the future.
--  [**My Own Neovim Config**](https://github.com/muhammadzkralla/zvim.nvim) — built from scratch using Lua, tuned for productivity and aesthetics.
+- [**Java Virtual Machine Implementation**](https://github.com/muhammadzkralla/zvm) : an educational, single-threaded, garbage-collected, zero-dependency implementation of the official JVM specifications.
+-  [**TCP Socket HTTP Engine & Backend Framework**](https://github.com/muhammadzkralla/zttp) : routing, middleware, HTTP/1.1 parsing, cookies, cache-control, static file serving, keep-alive requests, connection management starting from raw TCP sockets, and other standard backend frameworks features.
+-  [**JVM HTTP Client**](https://github.com/muhammadzkralla/ZHttp) : manually handling generic requests, HTTP/1.1 parsing, and concurrency modeling running on all JVM projects (Spring Boot, Android, Console, etc.).
+-  [**HMM (Heap Memory Manager)**](https://github.com/muhammadzkralla/STM/tree/main/ZHeap_Phase2) : malloc/free/calloc/realloc using a virtual heap mimicking the libc memory model.
+-  [**Custom Unix Shell**](https://github.com/muhammadzkralla/super_simple_shell) : with piping, in/out/err redirections, custom commands, and built-ins.
+-  **Custom Coroutines Model** : building my own coroutines concurrency api model to suspend a function and resume it later in the future.
+-  [**My Own Neovim Config**](https://github.com/muhammadzkralla/zvim.nvim) : built from scratch using Lua, tuned for productivity and aesthetics.
 
 ---
 
