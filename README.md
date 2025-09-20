@@ -74,13 +74,13 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but is n
 
 > Rebuilding the wheel because I *need* to know how it spins.
 
-- [**Java Virtual Machine Implementation**](https://github.com/muhammadzkralla/zvm) : an educational, single-threaded, garbage-collected, zero-dependency implementation of the official JVM specifications.
--  [**TCP Socket HTTP Engine & Backend Framework**](https://github.com/muhammadzkralla/zttp) : routing, middleware, HTTP/1.1 parsing, cookies, cache-control, static file serving, keep-alive requests, connection management starting from raw TCP sockets, and other standard backend frameworks features.
--  [**JVM HTTP Client**](https://github.com/muhammadzkralla/ZHttp) : manually handling generic requests, HTTP/1.1 parsing, and concurrency modeling running on all JVM projects (Spring Boot, Android, Console, etc.).
--  [**HMM (Heap Memory Manager)**](https://github.com/muhammadzkralla/STM/tree/main/ZHeap_Phase2) : malloc/free/calloc/realloc using a virtual heap mimicking the libc memory model.
--  [**Custom Unix Shell**](https://github.com/muhammadzkralla/super_simple_shell) : with piping, in/out/err redirections, custom commands, and built-ins.
+- [**Java Virtual Machine (JVM) Implementation in Rust**](https://github.com/muhammadzkralla/zvm) : an educational, single-threaded, garbage-collected, zero-dependency implementation of the official JVM specifications.
+-  [**TCP Socket HTTP Engine & Backend Framework in GoLang**](https://github.com/muhammadzkralla/zttp) : routing, middleware, HTTP/1.1 parsing, cookies, cache-control, static file serving, keep-alive requests, connection management starting from raw TCP sockets, and other standard backend frameworks features.
+-  [**JVM HTTP Client (targets all JVM Projects: Android, Spring Boot, Console, etc.) in Kotlin**](https://github.com/muhammadzkralla/ZHttp) : manually handling generic requests, HTTP/1.1 parsing, and concurrency modeling running on all JVM projects (Spring Boot, Android, Console, etc.).
+-  [**HMM (Heap Memory Manager) in C**](https://github.com/muhammadzkralla/STM/tree/main/ZHeap_Phase2) : malloc/free/calloc/realloc using a virtual heap mimicking the libc memory model.
+-  [**Custom Unix Shell in C**](https://github.com/muhammadzkralla/super_simple_shell) : with piping, in/out/err redirections, custom commands, and built-ins.
 -  **Custom Coroutines Model** : building my own coroutines concurrency api model to suspend a function and resume it later in the future.
--  [**My Own Neovim Config**](https://github.com/muhammadzkralla/zvim.nvim) : built from scratch using Lua, tuned for productivity and aesthetics.
+-  [**My Own Neovim Config in Lua**](https://github.com/muhammadzkralla/zvim.nvim) : built from scratch using Lua, tuned for productivity and aesthetics.
 
 ---
 
