@@ -72,7 +72,7 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but is n
 
 ### What I've Built (From Scratch) (Until Now)
 
-> I'm not just good at it, I already created it before.
+> I'm not just good at it, I already created it before :)
 
 - [**Java Virtual Machine (JVM) Implementation in Rust**](https://github.com/muhammadzkralla/zvm) : an educational, single-threaded, garbage-collected, zero-dependency implementation of the official JVM specifications.
 -  [**TCP Socket HTTP Engine & Backend Framework in GoLang**](https://github.com/muhammadzkralla/zttp) : routing, middleware, HTTP/1.1 parsing, cookies, cache-control, static file serving, keep-alive requests, connection management starting from raw TCP sockets, and other standard backend frameworks features.
