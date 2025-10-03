@@ -63,7 +63,7 @@ I enjoy writing code across paradigms and ecosystems. My stack includes but is n
 - **C & C++** : Low-Level System Programming, My Heap Memory Manager [`zhmm`](https://github.com/muhammadzkralla/STM/tree/main/ZHeap_Phase2), My Linux Shell [`zshell`](https://github.com/muhammadzkralla/super_simple_shell), My Garbage Collector, CLI tools, Data Structures and Algorithms.
 - **Go (Golang)** : Low-Level System Programming, Networking, My HTTP Server [`zttp`](https://github.com/muhammadzkralla/zttp), Database Engines/ORMs, Backend Services, RESTful APIs, Asynchronous (Concurrent) Systems, CLI Tools, Particle Systems and Game Engines.
 - **Rust** : Low-Level System Programming, My Java Virtual Machine [`zvm`](https://github.com/muhammadzkralla/zvm), Networking, Backend Services, Asynchronous (Concurrent) Systems, CLI Tools, Particle Systems.
-- **JavaScript (Node.js)** – Backend Services, RESTful APIs, Asynchronous (I/O) Systems, Integrations, Web Apps.
+- **JavaScript (Node.js)** : Backend Services, RESTful APIs, Asynchronous (I/O) Systems, Integrations, Web Apps.
 - **Python** : Backend Services, RESTful APIs, Scripting, Prototyping, Automation.
 - **Lua** : My Personal Neovim Configs [`zvim`](https://github.com/muhammadzkralla/zvim.nvim) and Tooling.
 - **Bash** : Scripting, Automation, Linux Tooling.
