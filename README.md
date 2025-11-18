@@ -1,12 +1,12 @@
 <h1 align="center"> WELCOME TO MY GITHUB! 😼🐈 </h1>
-<h3 align="center"> Engineer • Systems Builder </h3>
+<h3 align="center"> Engineer • Systems Builder • Low-Level Programmer </h3>
 
 <p align="center">
   <img src="https://user-badge.committers.top/egypt/muhammadzkralla.svg" alt="Top Committer in Egypt" />
 </p>
 
 <div align="center" style="max-width: 100%; overflow: hidden;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Rebuilding+Complex+Systems+from+Scratch;Engineer+by+Practice,+Internals+Geek;Writing,+Reading,+and+Reimagining+Software+Every+Day" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=21,+engineer;internals+geek;i+build+zero-dependency+complex+systems" alt="Typing SVG">
 </div>
 
 ---
