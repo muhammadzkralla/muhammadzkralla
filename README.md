@@ -33,7 +33,9 @@
 
 ## WELCOME TO MY GITHUB! 😼🐈
 
-Software engineer since 2019. I learn by rebuilding things from scratch — compilers, HTTP servers, shells, memory managers, coroutines. Obsessed with systems internals: memory, networking, I/O, async, databases, OS.
+Software engineer since 2019. I learn by rebuilding things from scratch: compilers, HTTP servers and clients, shells, memory managers, coroutines, databases, networking protocols.
+
+Obsessed with systems internals: memory, networking, I/O, async architectures and concurrency models, databases, OS.
 
 Daily driver: Linux, Neovim, terminal-first workflow.
 
@@ -41,7 +43,7 @@ Daily driver: Linux, Neovim, terminal-first workflow.
 
 ### Languages
 
-C, C++, Rust, Go, Java, Kotlin, JavaScript, Python, Lua, Bash
+Java, Kotlin, C, C++, Rust, Go, JavaScript, Python, Lua, Bash
 
 ---
 
